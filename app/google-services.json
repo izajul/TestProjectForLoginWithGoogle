@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "752832379529",
+    "firebase_url": "https://newfirebaseproject-99a6d.firebaseio.com",
+    "project_id": "newfirebaseproject-99a6d",
+    "storage_bucket": "newfirebaseproject-99a6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752832379529:android:e3076bd6258a2170",
+        "android_client_info": {
+          "package_name": "com.izajul.testprojectforloginwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752832379529-bn01d23g3cah1f5rmo2ado1s6u4tktuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlDK5CyvIaf0ExSDcxFxuHQ1dzW8K-TxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
