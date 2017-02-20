@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText( MainActivity.this, "Hello "+firebaseUser.getEmail(), Toast.LENGTH_SHORT ).show();
                     Log.e( "TAG","<<<<<<UserChange>>>>>:"+firebaseUser.getEmail() );
                 }else{
-                    Log.e( "TAG","<<<<<<<<<<User Change>>>>>>> :"+"Signed Out........." );
+                    Toast.makeText( MainActivity.this, "No user Here", Toast.LENGTH_SHORT ).show();
                 }
             }
         };
